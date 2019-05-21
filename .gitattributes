@@ -1,1 +1,5 @@
-css/* linguist-vendored
+caps/src/main/webapp/css/* linguist-vendored
+caps/src/main/webapp/image/* linguist-vendored
+caps/src/main/webapp/js/* linguist-vendored
+caps/src/main/webapp/WEB-INF/decorators/* linguist-vendored
+caps/src/main/resources/themes/* 
